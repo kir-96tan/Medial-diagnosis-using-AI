@@ -32,13 +32,6 @@ This project explores the implementation of machine learning in the healthcare d
 
 ---
 
-## 🖼️ Screenshots
-
-> *(Insert relevant UI or terminal screenshots here)*  
-> e.g., Home page, input form, prediction result page, model accuracy chart
-
----
-
 ## 📁 Project Structure
 
 ├── app.py
